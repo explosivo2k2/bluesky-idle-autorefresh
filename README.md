@@ -1,4 +1,4 @@
-# Twitter Idle AutoRefresh
+# Bluesky Idle AutoRefresh
 
 A Mozilla Firefox add-on that automatically reveals unread tweets every set seconds on Bluesky feeds feeds, so long as the customisable conditions are met. The primary goal of this add-on is to allow you to continiously read Bluesky whilst doing other things on the side (e.g. work).
 
